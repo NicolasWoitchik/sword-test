@@ -9,4 +9,4 @@ To run this project, follow these steps:
 - Create the database structure by running `yarn typeorm migration:run`.
 - Start the application by running `yarn start`.
 
-Note: By default, the application runs on port 30000.
+Note: By default, the application runs on port 3000.
